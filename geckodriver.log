@@ -1,0 +1,951 @@
+1490018301255	geckodriver	INFO	Listening on 127.0.0.1:60908
+1490018310583	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.svCL26zT6ezQ
+1490018310610	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490018310844	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60912
+1490018315365	Marionette	INFO	Listening on port 60912
+JavaScript warning: https://eve-central.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://eve-central.com/js/backbone-min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1490018446845	geckodriver	INFO	Listening on 127.0.0.1:61034
+1490018448303	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.oUney6gA0svK
+1490018448308	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490018448336	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61039
+1490018454081	Marionette	INFO	Listening on port 61039
+JavaScript warning: https://eve-central.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://eve-central.com/js/backbone-min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1490018558257	geckodriver	INFO	Listening on 127.0.0.1:61193
+1490018559864	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.V6papLL1ttX9
+1490018559866	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490018559910	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61198
+1490018564700	Marionette	INFO	Listening on port 61198
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490021073993	geckodriver	INFO	Listening on 127.0.0.1:61918
+1490021076020	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.El2UVk5Swfmi
+1490021076024	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490021076054	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61923
+1490021081668	Marionette	INFO	Listening on port 61923
+1490021300535	geckodriver	INFO	Listening on 127.0.0.1:62020
+1490021302142	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.snM8KQOVsgUr
+1490021302145	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490021302168	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62025
+1490021308403	Marionette	INFO	Listening on port 62025
+1490021399703	geckodriver	INFO	Listening on 127.0.0.1:62131
+1490021401345	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.LG6A8k0UGXmx
+1490021401350	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490021401429	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62136
+1490021406413	Marionette	INFO	Listening on port 62136
+1490021472927	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490021869394	geckodriver	INFO	Listening on 127.0.0.1:62352
+1490021874033	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.KDSEtF6AXhk5
+1490021874037	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490021874060	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62356
+1490021879491	Marionette	INFO	Listening on port 62356
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490022298764	geckodriver	INFO	Listening on 127.0.0.1:62485
+1490022300458	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.QAn3UEsHasZy
+1490022300462	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490022300484	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62490
+1490022305760	Marionette	INFO	Listening on port 62490
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C3,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1490027620921	geckodriver	INFO	Listening on 127.0.0.1:62835
+1490027625832	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.OT54O71fhbgo
+1490027625891	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490027625935	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62839
+1490027631525	Marionette	INFO	Listening on port 62839
+1490028285152	geckodriver	INFO	Listening on 127.0.0.1:63009
+1490028286801	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.CsgZJnBFkIhc
+1490028286805	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490028286827	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63014
+1490028292430	Marionette	INFO	Listening on port 63014
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490028358582	geckodriver	INFO	Listening on 127.0.0.1:63105
+1490028360098	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.zT3Y3vrZdhWu
+1490028360102	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490028360125	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63110
+1490028364420	Marionette	INFO	Listening on port 63110
+1490068555537	geckodriver	INFO	Listening on 127.0.0.1:64225
+1490068558905	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.Q4JPhCjpoTwt
+1490068558908	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490068559132	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64231
+1490068563559	Marionette	INFO	Listening on port 64231
+1490068629490	geckodriver	INFO	Listening on 127.0.0.1:64339
+1490068630936	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.qyUReALT8y0O
+1490068630940	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490068630944	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64344
+1490068633932	Marionette	INFO	Listening on port 64344
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490071092013	geckodriver	INFO	Listening on 127.0.0.1:64618
+1490071094008	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.TSpOqvHGY9hZ
+1490071094012	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490071094033	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64623
+1490071098549	Marionette	INFO	Listening on port 64623
+[Child 45845] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 45845] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490071218724	geckodriver	INFO	Listening on 127.0.0.1:65052
+1490071220149	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.8LRrbRoMyohe
+1490071220154	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490071220183	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65057
+1490071222081	Marionette	INFO	Listening on port 65057
+[Child 45977] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 45977] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490071462780	geckodriver	INFO	Listening on 127.0.0.1:65481
+1490071464243	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.RJWflhSn0OZ1
+1490071464245	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490071464287	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65486
+1490071466441	Marionette	INFO	Listening on port 65486
+1490071616489	geckodriver	INFO	Listening on 127.0.0.1:49420
+1490071618335	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.DWLlAbf6NjpB
+1490071618339	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490071618367	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49425
+1490071620940	Marionette	INFO	Listening on port 49425
+[Child 46360] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 46360] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490080717555	geckodriver	INFO	Listening on 127.0.0.1:50328
+1490080719345	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.bDUXrgAAT4vc
+1490080719350	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490080719395	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50333
+1490080725092	Marionette	INFO	Listening on port 50333
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490085964710	geckodriver	INFO	Listening on 127.0.0.1:51321
+1490085966821	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.BXYswZlEaMjn
+1490085966824	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490085966854	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51326
+1490085972887	Marionette	INFO	Listening on port 51326
+1490085977056	geckodriver	INFO	Listening on 127.0.0.1:51388
+1490085978353	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.ueZzpSd6eQp5
+1490085978355	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490085978359	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51393
+1490085983562	Marionette	INFO	Listening on port 51393
+1490086111188	geckodriver	INFO	Listening on 127.0.0.1:51523
+1490086112763	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.2AO0sfrDzzqn
+1490086112766	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490086112822	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51528
+1490086119902	Marionette	INFO	Listening on port 51528
+1490086124557	geckodriver	INFO	Listening on 127.0.0.1:51606
+1490086125905	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.nLsvlsTor04Y
+1490086125925	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490086125930	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51614
+1490086132412	Marionette	INFO	Listening on port 51614
+1490086266177	geckodriver	INFO	Listening on 127.0.0.1:51748
+1490086267738	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.wtMfgEObMSl4
+1490086267741	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490086267765	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51753
+1490086272125	Marionette	INFO	Listening on port 51753
+1490086275842	geckodriver	INFO	Listening on 127.0.0.1:51800
+1490086276934	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.j0KvsrmXlBR6
+1490086276936	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490086276940	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51805
+1490086277813	Marionette	INFO	Listening on port 51805
+1490086340412	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490086340436	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490086343571	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490086346947	geckodriver	INFO	Listening on 127.0.0.1:51867
+1490086348600	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.g5nBsFEUhemO
+1490086348603	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490086348664	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51872
+1490086353347	Marionette	INFO	Listening on port 51872
+1490086357142	geckodriver	INFO	Listening on 127.0.0.1:51929
+1490086358169	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.5XcN2bhGn4Xo
+1490086358171	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490086358176	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51934
+1490086359080	Marionette	INFO	Listening on port 51934
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490089365213	geckodriver	INFO	Listening on 127.0.0.1:52391
+1490089366876	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.LQKFETVjx1Y9
+1490089366880	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490089366909	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52396
+1490089371168	Marionette	INFO	Listening on port 52396
+1490089375375	geckodriver	INFO	Listening on 127.0.0.1:52446
+1490089376747	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.zetnVN1r8Bsd
+1490089376750	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490089376753	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52454
+1490089383043	Marionette	INFO	Listening on port 52454
+1490089540771	geckodriver	INFO	Listening on 127.0.0.1:52606
+1490089542251	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.BnLvlknfFxAk
+1490089542255	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490089542278	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52611
+1490089548018	Marionette	INFO	Listening on port 52611
+1490089552662	geckodriver	INFO	Listening on 127.0.0.1:52677
+1490089554037	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.iQfp0H4gHoNS
+1490089554075	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490089554080	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52686
+1490089559588	Marionette	INFO	Listening on port 52686
+1490089752505	geckodriver	INFO	Listening on 127.0.0.1:52853
+1490089755136	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.vT1L6UlVaLxZ
+1490089755181	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490089755256	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52858
+1490089760005	Marionette	INFO	Listening on port 52858
+1490089763855	geckodriver	INFO	Listening on 127.0.0.1:52908
+1490089765204	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.wdSQrggGl0le
+1490089765206	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490089765210	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52913
+1490089772519	Marionette	INFO	Listening on port 52913
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490090373803	geckodriver	INFO	Listening on 127.0.0.1:53219
+1490090375563	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.jHri86HAsR9q
+1490090375565	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490090375624	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53224
+1490090380804	Marionette	INFO	Listening on port 53224
+1490090385095	geckodriver	INFO	Listening on 127.0.0.1:53282
+1490090386429	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.Iwyuwc7OhCQE
+1490090386432	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490090386435	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53289
+1490090390502	Marionette	INFO	Listening on port 53289
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490090958469	geckodriver	INFO	Listening on 127.0.0.1:53514
+1490090959977	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.6WO5bOwkAyD5
+1490090959981	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490090960004	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53519
+1490090964298	Marionette	INFO	Listening on port 53519
+1490090969470	geckodriver	INFO	Listening on 127.0.0.1:53569
+1490090970776	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.64OkvgNK3wl4
+1490090970778	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490090970782	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53578
+1490090974983	Marionette	INFO	Listening on port 53578
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490091474874	geckodriver	INFO	Listening on 127.0.0.1:53742
+1490091476438	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.bZjhdYxrx9UX
+1490091476442	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490091476487	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53747
+1490091482232	Marionette	INFO	Listening on port 53747
+1490091488125	geckodriver	INFO	Listening on 127.0.0.1:53814
+1490091489539	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.VyW8wtYbAujX
+1490091489545	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490091489551	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53822
+1490091495008	Marionette	INFO	Listening on port 53822
+1490091621071	geckodriver	INFO	Listening on 127.0.0.1:53944
+1490091622671	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.Y0z4YofUo8KN
+1490091622676	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490091622704	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53949
+1490091627282	Marionette	INFO	Listening on port 53949
+1490091631640	geckodriver	INFO	Listening on 127.0.0.1:53999
+1490091633096	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.fqe9a28JuTCM
+1490091633100	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490091633103	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54008
+1490091638085	Marionette	INFO	Listening on port 54008
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490092323163	geckodriver	INFO	Listening on 127.0.0.1:54145
+1490092325253	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.WwvFzZYkxvea
+1490092325258	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490092325329	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54150
+1490092331486	Marionette	INFO	Listening on port 54150
+1490092336246	geckodriver	INFO	Listening on 127.0.0.1:54219
+1490092337550	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.nMQ2XKpceGd2
+1490092337554	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490092337558	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54227
+1490092342217	Marionette	INFO	Listening on port 54227
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490092518695	geckodriver	INFO	Listening on 127.0.0.1:54351
+1490092520222	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.pwlg2fnOYIbf
+1490092520226	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490092520248	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54356
+1490092524410	Marionette	INFO	Listening on port 54356
+1490092529628	geckodriver	INFO	Listening on 127.0.0.1:54404
+1490092530948	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.xWyWaHlFGmGv
+1490092530950	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490092530964	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54414
+1490092535053	Marionette	INFO	Listening on port 54414
+1490092989469	geckodriver	INFO	Listening on 127.0.0.1:54536
+1490092990983	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.GGqanVqX55bo
+1490092990985	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490092990988	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54541
+1490092994473	Marionette	INFO	Listening on port 54541
+1490092997141	geckodriver	INFO	Listening on 127.0.0.1:54577
+1490092998159	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.49lLiTLEpVvy
+1490092998162	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490092998170	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54583
+1490092998973	Marionette	INFO	Listening on port 54583
+1490093212266	geckodriver	INFO	Listening on 127.0.0.1:54694
+1490093213669	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.RvBWFF5md1fY
+1490093213671	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490093213674	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54699
+1490093216990	Marionette	INFO	Listening on port 54699
+1490093220309	geckodriver	INFO	Listening on 127.0.0.1:54734
+1490093221345	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.zObgeRyoft4u
+1490093221349	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490093221355	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54740
+1490093222211	Marionette	INFO	Listening on port 54740
+1490093281955	geckodriver	INFO	Listening on 127.0.0.1:54803
+1490093283004	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.j0hDjgJlS2ZG
+1490093283008	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490093283013	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54808
+1490093283992	Marionette	INFO	Listening on port 54808
+1490093286323	geckodriver	INFO	Listening on 127.0.0.1:54831
+1490093287303	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.IV7meqb1YdT0
+1490093287306	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490093287313	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54837
+1490093288239	Marionette	INFO	Listening on port 54837
+1490093365610	geckodriver	INFO	Listening on 127.0.0.1:54903
+1490093367353	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.CKdWlIrLOkdd
+1490093367357	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490093367417	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54909
+1490093373930	Marionette	INFO	Listening on port 54909
+1490093378516	geckodriver	INFO	Listening on 127.0.0.1:55003
+1490093379825	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.v9cxRSSKvD50
+1490093379827	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490093379833	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55011
+1490093384260	Marionette	INFO	Listening on port 55011
+1490093496235	geckodriver	INFO	Listening on 127.0.0.1:55104
+1490093497628	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.6qbRNr814uKh
+1490093497630	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490093497635	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55109
+1490093500801	Marionette	INFO	Listening on port 55109
+1490093503696	geckodriver	INFO	Listening on 127.0.0.1:55147
+1490093504707	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.YmAVKBSe4nPD
+1490093504710	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490093504715	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55152
+1490093505630	Marionette	INFO	Listening on port 55152
+1490093830530	geckodriver	INFO	Listening on 127.0.0.1:55278
+1490093832089	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.SHKBGN1I9dM3
+1490093832093	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490093832159	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55283
+1490093836833	Marionette	INFO	Listening on port 55283
+1490093841900	geckodriver	INFO	Listening on 127.0.0.1:55341
+1490093843166	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.C9OcAnpUVvND
+1490093843169	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490093843175	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55349
+1490093848850	Marionette	INFO	Listening on port 55349
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: syncClients@resource://gre/modules/services-common/blocklist-updater.js:58:26
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+this.checkVersions@resource://gre/modules/services-common/blocklist-updater.js:35:10
+Blocklist.prototype.notify@resource://gre/components/nsBlocklistService.js:638:7
+TM_notify/<@resource://gre/components/nsUpdateTimerManager.js:201:11
+TM_notify@resource://gre/components/nsUpdateTimerManager.js:249:7
+
+*************************
+1490144242787	geckodriver	INFO	Listening on 127.0.0.1:55671
+1490144244978	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.hlQcVHfzDKuI
+1490144244980	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490144245033	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55676
+1490144249225	Marionette	INFO	Listening on port 55676
+1490144261741	geckodriver	INFO	Listening on 127.0.0.1:55738
+1490144263854	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.qX9kABuMqdoh
+1490144263858	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490144264020	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55743
+1490144269538	Marionette	INFO	Listening on port 55743
+1490144718115	geckodriver	INFO	Listening on 127.0.0.1:56144
+1490144719625	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.G8NEDrVpT2nR
+1490144719628	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490144719651	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56149
+1490144724119	Marionette	INFO	Listening on port 56149
+1490144727981	geckodriver	INFO	Listening on 127.0.0.1:56205
+1490144729143	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.iMt6p2TN2Q3X
+1490144729145	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490144729150	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56211
+1490144730777	Marionette	INFO	Listening on port 56211
+1490145260763	geckodriver	INFO	Listening on 127.0.0.1:56285
+1490145262296	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.v1zbTW1gSBDo
+1490145262300	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490145262322	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56290
+1490145266593	Marionette	INFO	Listening on port 56290
+1490145270841	geckodriver	INFO	Listening on 127.0.0.1:56340
+1490145271871	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.soeci03MDDVY
+1490145271874	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490145271954	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56348
+1490145272743	Marionette	INFO	Listening on port 56348
+[Child 62905] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 62905] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 62901] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 62901] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1490146178213	geckodriver	INFO	Listening on 127.0.0.1:57480
+1490146179609	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.5g8WQN5BrIPC
+1490146179613	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490146179643	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57485
+1490146183269	Marionette	INFO	Listening on port 57485
+1490146186502	geckodriver	INFO	Listening on 127.0.0.1:57528
+1490146187519	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.OpjQf18Q721O
+1490146187521	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490146187580	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57535
+1490146188374	Marionette	INFO	Listening on port 57535
+[Child 63660] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 63652] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 63660] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056[Child 63652] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+1490147191855	geckodriver	INFO	Listening on 127.0.0.1:57865
+1490147192916	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.TkZqcpCK8PNx
+1490147192918	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490147193080	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57870
+1490147196356	Marionette	INFO	Listening on port 57870
+1490147198670	geckodriver	INFO	Listening on 127.0.0.1:57909
+1490147199974	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.MGuZ58C7UwGU
+1490147199976	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490147199979	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57915
+1490147200886	Marionette	INFO	Listening on port 57915
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+Full stack: 
+*************************
+1490149772084	geckodriver	INFO	Listening on 127.0.0.1:58276
+1490149773669	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.ggCRA0MkY8XI
+1490149773674	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490149773714	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58281
+1490149778040	Marionette	INFO	Listening on port 58281
+1490149781831	geckodriver	INFO	Listening on 127.0.0.1:58334
+1490149783223	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.O10kx9USzyDj
+1490149783229	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490149783234	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58341
+1490149787463	Marionette	INFO	Listening on port 58341
+1490149871637	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1490149963608	geckodriver	INFO	Listening on 127.0.0.1:58446
+1490149965055	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.OmFCyOAsIPtK
+1490149965059	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490149965081	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58451
+1490149969347	Marionette	INFO	Listening on port 58451
+1490149973084	geckodriver	INFO	Listening on 127.0.0.1:58501
+1490149974456	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.a3HkgwPdJ3nI
+1490149974458	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490149974461	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58508
+1490149978139	Marionette	INFO	Listening on port 58508
+1490150076960	geckodriver	INFO	Listening on 127.0.0.1:58645
+1490150078525	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.Ifb6S4uWGjf0
+1490150078530	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490150078584	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58650
+1490150082954	Marionette	INFO	Listening on port 58650
+1490150086822	geckodriver	INFO	Listening on 127.0.0.1:58703
+1490150088219	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.0HoSW6APTUXz
+1490150088222	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490150088244	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58710
+1490150092155	Marionette	INFO	Listening on port 58710
+1490150165783	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1490150176081	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490150995150	geckodriver	INFO	Listening on 127.0.0.1:58950
+1490150996708	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.DNJwqyz11uYE
+1490150996712	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490150996734	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58955
+1490151002816	Marionette	INFO	Listening on port 58955
+1490151006593	geckodriver	INFO	Listening on 127.0.0.1:59023
+1490151007618	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.ycRxZNitlNWq
+1490151007620	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490151007625	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59030
+1490151008593	Marionette	INFO	Listening on port 59030
+1490151528151	geckodriver	INFO	Listening on 127.0.0.1:59179
+1490151529569	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.HvSOMf6FoEAN
+1490151529573	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490151529595	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59184
+1490151533470	Marionette	INFO	Listening on port 59184
+1490151537343	geckodriver	INFO	Listening on 127.0.0.1:59231
+1490151539049	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.IA4C605dVWYy
+1490151539054	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490151539101	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59238
+1490151540364	Marionette	INFO	Listening on port 59238
+1490151559076	geckodriver	INFO	Listening on 127.0.0.1:59294
+1490151560523	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.UJF7o038OGBo
+1490151560530	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490151560535	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59299
+1490151564146	Marionette	INFO	Listening on port 59299
+1490151567135	geckodriver	INFO	Listening on 127.0.0.1:59341
+1490151568998	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.HMCLSSrH9VeW
+1490151569000	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490151569004	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59348
+1490151573803	Marionette	INFO	Listening on port 59348
+1490151822871	geckodriver	INFO	Listening on 127.0.0.1:59467
+1490151824278	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.ZzyyWCA8qcun
+1490151824282	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490151824293	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59472
+1490151828435	Marionette	INFO	Listening on port 59472
+1490151831780	geckodriver	INFO	Listening on 127.0.0.1:59520
+1490151832819	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.K8Y4Ulgta8D1
+1490151832822	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490151832825	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59527
+1490151833739	Marionette	INFO	Listening on port 59527
+1490157036936	geckodriver	INFO	Listening on 127.0.0.1:59678
+1490157038436	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.IBejUpXiPDF0
+1490157038440	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490157038462	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59683
+1490157042303	Marionette	INFO	Listening on port 59683
+1490157046124	geckodriver	INFO	Listening on 127.0.0.1:59729
+1490157047147	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.GabhfYpvUcZu
+1490157047149	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490157047154	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59736
+1490157048013	Marionette	INFO	Listening on port 59736
+1490157126845	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1490157140592	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1490157225227	geckodriver	INFO	Listening on 127.0.0.1:59796
+1490157227039	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.xQbUXniPXBQ2
+1490157227044	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490157227073	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59801
+1490157231623	Marionette	INFO	Listening on port 59801
+1490157327352	geckodriver	INFO	Listening on 127.0.0.1:59872
+1490157328819	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.l7FHjg4HchoI
+1490157328823	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490157328843	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59879
+1490157333736	Marionette	INFO	Listening on port 59879
+1490157371721	geckodriver	INFO	Listening on 127.0.0.1:60030
+1490157373392	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.Ah6215jovs7V
+1490157373395	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490157373529	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60035
+1490157378575	Marionette	INFO	Listening on port 60035
+1490157425953	geckodriver	INFO	Listening on 127.0.0.1:60144
+1490157427576	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.wiQCjM2SdSUh
+1490157427580	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490157427609	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60149
+1490157432102	Marionette	INFO	Listening on port 60149
+1490157485711	geckodriver	INFO	Listening on 127.0.0.1:60237
+1490157487634	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.TNourEVnzJW4
+1490157487638	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490157487661	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60263
+1490157493134	Marionette	INFO	Listening on port 60263
+1490157535445	geckodriver	INFO	Listening on 127.0.0.1:60362
+1490157537207	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.KDFqjZ6AGjDz
+1490157537210	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490157537242	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60367
+1490157544230	Marionette	INFO	Listening on port 60367
+1490157575747	geckodriver	INFO	Listening on 127.0.0.1:60476
+1490157577417	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.gmpIl72EUn1c
+1490157577421	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490157577425	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60481
+1490157581461	Marionette	INFO	Listening on port 60481
+1490157599880	geckodriver	INFO	Listening on 127.0.0.1:60554
+1490157601268	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.hxWiikXrxyXk
+1490157601270	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490157601273	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60559
+1490157605160	Marionette	INFO	Listening on port 60559
+1490157658105	geckodriver	INFO	Listening on 127.0.0.1:60652
+1490157659714	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.xAWsTeSzuHap
+1490157659719	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490157659747	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60657
+[Child 69363] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 69363] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 69308] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 69308] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 69135] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 69135] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 69100] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 69100] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 69186] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 69186] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 69256] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 69256] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 69341] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 69341] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490196754266	geckodriver	INFO	Listening on 127.0.0.1:62513
+1490196759642	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.VLXxIcuKJJzs
+1490196759646	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490196759678	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62517
+1490196762496	Marionette	INFO	Listening on port 62517
+1490197087119	geckodriver	INFO	Listening on 127.0.0.1:62594
+1490197088624	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.wH6FKEaD86vf
+1490197088628	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490197088658	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62599
+1490197091621	Marionette	INFO	Listening on port 62599
+1490197126941	geckodriver	INFO	Listening on 127.0.0.1:62685
+1490197128758	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.HaMYWJD3IfAN
+1490197128780	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490197128818	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62690
+1490197133779	Marionette	INFO	Listening on port 62690
+1490197174837	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1490197217090	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490203539947	geckodriver	INFO	Listening on 127.0.0.1:63998
+1490203541212	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.Zn16ktsKiEbG
+1490203541215	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490203541233	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64002
+1490203545149	Marionette	INFO	Listening on port 64002
+1490203574556	geckodriver	INFO	Listening on 127.0.0.1:64095
+1490203576187	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.ilZ7KN0cLIBG
+1490203576190	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490203576197	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64100
+1490203579523	Marionette	INFO	Listening on port 64100
+1490236377800	geckodriver	INFO	Listening on 127.0.0.1:64235
+1490236380066	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.KUQTsBBQSvpD
+1490236380068	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490236380444	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64240
+1490236386105	Marionette	INFO	Listening on port 64240
+1490236482871	geckodriver	INFO	Listening on 127.0.0.1:64498
+1490236484196	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.l4cdA6h1J9Te
+1490236484198	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490236484207	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64503
+1490236487303	Marionette	INFO	Listening on port 64503
+1490236698989	geckodriver	INFO	Listening on 127.0.0.1:64619
+1490236700424	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.NmxZtvXKUHXc
+1490236700427	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490236700447	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64627
+1490236703797	Marionette	INFO	Listening on port 64627
+1490236747269	geckodriver	INFO	Listening on 127.0.0.1:64714
+1490236749038	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.IlZ7KeHdzOw7
+1490236749041	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490236749064	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64719
+1490236752077	Marionette	INFO	Listening on port 64719
+1490236814646	geckodriver	INFO	Listening on 127.0.0.1:64793
+1490236816238	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.ilNW1oYmsQTW
+1490236816240	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490236816276	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64800
+1490236819309	Marionette	INFO	Listening on port 64800
+1490236866556	geckodriver	INFO	Listening on 127.0.0.1:64868
+1490236868137	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.MB9qCPLy8oXE
+1490236868141	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490236868163	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64873
+1490236871241	Marionette	INFO	Listening on port 64873
+1490236929645	geckodriver	INFO	Listening on 127.0.0.1:64943
+1490236931211	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.xa6NzA7Tk3XN
+1490236931215	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490236931244	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64948
+1490236934373	Marionette	INFO	Listening on port 64948
+1490236975692	geckodriver	INFO	Listening on 127.0.0.1:65023
+1490236977676	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.ZAb7jX7A4iOL
+1490236977681	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490236977702	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65028
+1490236982502	Marionette	INFO	Listening on port 65028
+1490237011558	geckodriver	INFO	Listening on 127.0.0.1:65117
+1490237012857	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.Y0EbAZBCpV0z
+1490237012859	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490237012874	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65122
+1490237016433	Marionette	INFO	Listening on port 65122
+1490237080468	geckodriver	INFO	Listening on 127.0.0.1:65197
+1490237082076	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.Ob9IxMtimcFk
+1490237082082	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490237082112	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65202
+1490237086861	Marionette	INFO	Listening on port 65202
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490237124445	geckodriver	INFO	Listening on 127.0.0.1:65299
+1490237126263	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.KOpRBViYes2M
+1490237126267	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490237126290	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65304
+1490237129850	Marionette	INFO	Listening on port 65304
+1490237156355	geckodriver	INFO	Listening on 127.0.0.1:65378
+1490237158015	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.tQoZup8OnvR4
+1490237158017	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490237158022	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65383
+1490237161994	Marionette	INFO	Listening on port 65383
+1490237203239	geckodriver	INFO	Listening on 127.0.0.1:65472
+1490237204947	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.UsCQvWCCKq84
+1490237204951	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490237204973	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65477
+1490237208577	Marionette	INFO	Listening on port 65477
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490254851121	geckodriver	INFO	Listening on 127.0.0.1:50206
+1490254855915	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.QQkWAa9kqheO
+1490254855919	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490254856027	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50211
+1490254859519	Marionette	INFO	Listening on port 50211
+1490254864109	geckodriver	INFO	Listening on 127.0.0.1:50252
+1490254865074	mozprofile::profile	INFO	Using profile path /var/folders/3b/f5dwwqbd16z8mw7cpn09cj2m0000gq/T/rust_mozprofile.xAqdVo49lkcm
+1490254865077	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490254865082	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50261
+1490254865880	Marionette	INFO	Listening on port 50261
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+2017-03-30 13:48:32.590 geckodriver[1953:1839336] Metadata.framework [Error]: server port invalidated for uid 503
+2017-03-30 13:48:32.590 geckodriver[1946:1839334] Metadata.framework [Error]: server port invalidated for uid 503
+2017-03-30 13:48:32.853 geckodriver[1946:1839211] Metadata.framework [Error]: server port went dead for query 0x7fde94013000 (restarting)
+2017-03-30 13:48:32.853 geckodriver[1953:1839210] Metadata.framework [Error]: server port went dead for query 0x7fbf7c00fc00 (restarting)
+2017-03-30 13:48:32.854 geckodriver[1946:1839340] Metadata.framework [Error]: client check-in failed: (268435459) (ipc/send) invalid destination port
+2017-03-30 13:48:32.854 geckodriver[1953:1839345] Metadata.framework [Error]: client check-in failed: (268435459) (ipc/send) invalid destination port
+2017-03-30 13:48:32.855 geckodriver[1946:1839211] Metadata.framework [Error]: couldn't get the client port
+2017-03-30 13:48:32.855 geckodriver[1953:1839210] Metadata.framework [Error]: couldn't get the client port
